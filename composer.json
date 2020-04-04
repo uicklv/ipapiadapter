@@ -1,0 +1,9 @@
+{
+  "name": "uicklv/ipapiadapter",
+  "description": "Apiapi Adapter",
+  "autoload": {
+    "psr-4": {
+      "App\\Lib\\": "src/",
+    }
+  }
+}
