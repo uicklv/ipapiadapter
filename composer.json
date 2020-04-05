@@ -6,6 +6,9 @@
       "App\\Lib\\": "src/"
     }
   },
+  "require": {
+    "uicklv/geointerface": "dev-master"
+  },
   "repositories": [
     {
       "type": "vcs",
